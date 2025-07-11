@@ -75,12 +75,3 @@ Open `index.html` in any modern browser or deploy to a web hosting provider:
 open index.html
 👨‍🍳 Author
 This website was customized and prepared by Abdullah Dalati.
-
-yaml
-Kopyala
-Düzenle
-
----
-
-📌 الآن يمكنك نسخ هذا النص ولصقه في ملف `README.md` باستخدام أي محرر نصوص مثل Visual Studio Code أو Notepad++.  
-إذا أردت، يمكنني مساعدتك بإنشاء الملف لاحقًا عندما تعمل الأدوات من جديد.
